@@ -7,7 +7,7 @@ Getting Started: 0.0.2
 => FYI - This is an unproofed work in progress. Please excuse the lack of markdown, etc. at the moment. Thx. 
 
 
-=> This group is for you is...
+=> This group is for you if...
 ------------------------------
 
 - You build things that typically render in a browser; 
@@ -24,19 +24,19 @@ Getting Started: 0.0.2
 => Guidelines for posting in this group
 ---------------------------------------
 
-1. Please preface your post with relevant #hashtags. 
+1\. Please preface your post with relevant #hashtags. 
 
 - This helps to give people quick context. That is, should they keep reading or not. Quick context will be especially important as the group scales and volume increases. 
 
 - Facebook's Group search at times feels questionable. Ideally #hashtags should help make something easier to find later. Let's all trying to think to the horizon.
 
-2. If you feel you must, #OffTopic is okay from time to time. 
+2\. If you feel you must, #OffTopic is okay from time to time. 
 
 - Please try to limit it to one per week. 
 
 - Example: "I've been coding to the new album from ________. Love it. If you're into ____ then I recommend it." 
 
-3. #ShamelessSelfPromotion (or #SSP) is okay from time to time. 
+3\. #ShamelessSelfPromotion (or #SSP) is okay from time to time. 
 
 - Please try to limit it to one per week. 
 
@@ -46,7 +46,7 @@ Getting Started: 0.0.2
 
 - Not Good: "We build websites. Blah. Blah. SEO. Blah..." Selling services to people who are not your target market is spam. Spam is not welcome here.
 
-4. Basic questions - #Noob or #WP101  - are also okay. 
+4\. Basic questions - #Noob or #WP101  - are also okay. 
 
 - Before you ask here please ask The Google and/or The Bing.
 
